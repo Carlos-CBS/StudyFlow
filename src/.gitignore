@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# IDE / IntelliJ
+/.idea/
+
+# Maven build
+/target/
+
+# Logs
+*.log
+
+# Node / Angular (si tienes frontend también)
+/node_modules/
+/dist/
